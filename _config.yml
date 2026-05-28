@@ -8,7 +8,7 @@ middle_name:
 last_name: Nazamuddin
 email: azwanaza@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Master's student at Hiroshima University developing Structural Inverse Reinforcement Learning — an exact, tractable algorithm for welfare measurement in activity-based dynamic discrete choice models — to evaluate how transport policies affect individuals' daily well-being at city scale.
+  Master's student at Hiroshima University working on computational methods for transport welfare analysis. Developing Structural-IRL, an algorithm for tractable welfare measurement in activity-based travel demand models.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
