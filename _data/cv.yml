@@ -1,0 +1,112 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Azwan Nazamuddin
+    - name: Location
+      value: Higashihiroshima, Hiroshima, Japan
+    - name: Languages
+      value: Indonesian (Native), English (Professional working proficiency)
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Master's Degree, Smart Mobility
+      institution: Hiroshima University, Japan
+      year: 2024–2026
+      description:
+        - Graduate School of Innovation and Practice for Smart Society.
+        - "Supervisor: Prof. Makoto Chikaraishi, Urban and Transportation Planning Lab."
+    - title: Bachelor's Degree, Urban and Regional Planning
+      institution: Institut Teknologi Bandung (ITB), Indonesia
+      year: 2019–2023
+      description:
+        - "GPA: 3.67 / 4.00"
+        - "Undergraduate Thesis: Exploration of Travel Behaviour and Idle-Time Location Selection of Online Ojek Drivers (Case Study: Bandung, Indonesia)"
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Research Assistant
+      institution: Institut Teknologi Bandung, Bandung, Indonesia
+      year: 2023–2024
+      description:
+        - "Exploration of the Impact of Online Food Delivery Service on Urban Facility Distribution in Indonesia (Case Study: DKI Jakarta, Bandung, Medan) — focus on ride-hailing driver travel behavior (supervised by Dr. Eng. Maya Safira)."
+        - Study of Urban Planning Innovation System in the Next-Normal Era (supervised by Ridwan Sutriadi, Ph.D).
+    - title: Coordinator, Planning Analytical Methods Laboratory
+      institution: Institut Teknologi Bandung, Bandung, Indonesia
+      year: 2022–2024
+      description:
+        - Led a team of 11–12 lab assistants teaching 80–90 students quantitative and qualitative data analysis using Stata, Excel, TORA, and Atlas.ti.
+    - title: Planning Analytical Methods Laboratory Assistant
+      institution: Institut Teknologi Bandung, Bandung, Indonesia
+      year: 2021–2022
+      description:
+        - Guided students in statistical software and programming with Stata.
+    - title: Research Intern
+      institution: Cityplan Indonesia, Bandung, Indonesia
+      year: 2022
+      description:
+        - Conducted market research for a location intelligence product/service (pre-development phase).
+    - title: Junior Software Engineer
+      institution: Dit-STI, Institut Teknologi Bandung, Indonesia
+      year: 2017–2018
+      description:
+        - Developed Android application for lecturer profile management using Ionic Framework, AngularJS, and PHP.
+        - Developed Android application for the General Elections Commission of West Java for voter data collection.
+
+- title: Honors & Awards
+  type: time_table
+  contents:
+    - title: Best Paper Award — EASTS 2025
+      institution: Eastern Asia Society for Transportation Studies
+      year: 2025
+      description:
+        - "Awarded for: Integrating Transactional and Perceptual Data for Travel Behavior Analysis in Ride-Hailing Services: Case Study Bandung, Indonesia (with Maya Safira and Makoto Chikaraishi)."
+        - "Category: Enlightening Asia-specific Topics. Presented in Surakarta, Indonesia."
+
+- title: Certifications
+  type: time_table
+  contents:
+    - title: Machine Learning Process
+      institution: Pacmann
+      year: 2024
+    - title: Introduction to Machine Learning
+      institution: Pacmann
+      year: 2024
+
+- title: Skills
+  type: nested_list
+  contents:
+    - title: Research & Modeling
+      items:
+        - Activity-based travel demand modeling
+        - Dynamic discrete choice models
+        - Approximate dynamic programming
+        - Transport modelling
+    - title: Data & Programming
+      items:
+        - Python, R, Stata
+        - Geographic Information Systems (GIS)
+        - Machine Learning
+        - Data Analysis & Visualization
+    - title: Software
+      items:
+        - Ionic Framework, AngularJS
+        - Google Data Studio
+        - Atlas.ti, Excel, TORA
+
+- title: Volunteering
+  type: time_table
+  contents:
+    - title: Team Leader, Data Center & Organizational Research
+      institution: Himpunan Mahasiswa Teknik Planologi "Pangripta Loka" ITB
+      year: 2021–2023
+      description:
+        - Developed and maintained the organization's database.
+        - Coordinated data collection and analyzed member surveys using Google Data Studio, Spreadsheet, and R.
+    - title: Content Writer
+      institution: Kami Meraki (Nonprofit)
+      year: 2020–2021
+      description:
+        - Researched and wrote articles on Sustainable Development Goals topics for a youth-focused nonprofit.
