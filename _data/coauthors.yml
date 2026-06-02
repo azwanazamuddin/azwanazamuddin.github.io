@@ -1,7 +1,1 @@
-"safira":
-  - firstname: ["Maya", "M."]
-    url: https://www.itb.ac.id
-
-"chikaraishi":
-  - firstname: ["Makoto", "M."]
-    url: https://chikaraishi-lab.com
+# Coauthors with links. Remove entries to disable author linking on publications page.
