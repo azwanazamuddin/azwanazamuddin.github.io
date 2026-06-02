@@ -18,8 +18,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a master's student at [Hiroshima University](https://www.hiroshima-u.ac.jp/en), working in the [Urban and Transportation Planning Lab](https://chikaraishi-lab.com) under Prof. Makoto Chikaraishi.
+Hi, I'm Azwan. I'm a master's student at [Hiroshima University](https://www.hiroshima-u.ac.jp/en) studying transportation — the kind that involves a lot of data, maps, and an unhealthy amount of interest in where people choose to stand around and wait.
 
-My research sits at the intersection of transportation planning and computation. The core question I'm working on: when a city changes its transport system — a new bus line, a fare change, a new road — who actually benefits and who doesn't, at the individual level? Activity-based travel models can answer this, but the exact computation is prohibitively expensive at city scale. My work develops **Structural-IRL**, an algorithm that makes this tractable by exploiting structural connections between dynamic discrete choice models, reinforcement learning, and graph neural networks.
-
-Before coming to Japan, I spent a few years at ITB in Bandung — doing research on ride-hailing behavior and running the statistics lab for planning students. I'm originally from Indonesia.
+I did my undergrad in Urban and Regional Planning at [ITB](https://www.itb.ac.id) in Bandung, Indonesia. I also cycle, which I tell myself counts as fieldwork.

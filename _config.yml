@@ -8,7 +8,7 @@ middle_name:
 last_name: Nazamuddin
 email: azwanaza@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Master's student at Hiroshima University working on computational methods for transport welfare analysis. Developing Structural-IRL, an algorithm for tractable welfare measurement in activity-based travel demand models.
+  Master's student at Hiroshima University, Japan. Interested in how people move around cities — transportation planning meets computation.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -90,7 +90,7 @@ lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 linkedin_username: azwanazamuddin # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
-orcid_id: # your ORCID ID
+orcid_id: 0009-0005-6561-3988 # your ORCID ID
 osf_id: # your OSF ID
 pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
@@ -108,7 +108,7 @@ whatsapp_number: # your WhatsApp number (full phone number in international form
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
 work_url: # work page URL
-x_username: # your X handle
+x_username: peminumyakult # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
