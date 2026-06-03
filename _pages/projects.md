@@ -2,64 +2,41 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Research and side projects.
+description:
 nav: true
 nav_order: 3
-display_categories: [research, other]
-horizontal: false
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{% if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_projects = site.projects | where: "category", category %}
-  {% assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
+<div class="publications">
+
+<h2 class="year">Research</h2>
+
+<ol class="bibliography">
+
+<li>
+<div class="row">
+  <div class="col-sm-10">
+    <div class="title">A Scalable Computational Framework for Activity-Based Dynamic Discrete Choice Models <em>(ongoing)</em></div>
+    <div class="author">Master's Thesis · Hiroshima University · supervised by Prof. Makoto Chikaraishi</div>
+    <div class="periodical">Reachability-based state space pruning and GPU-accelerated backward induction for exact city-scale DDCM estimation. Applied to the Higashi-Hiroshima travel diary dataset.</div>
+    <div class="links">
+      <span class="badge badge-secondary">APTE 2026</span>&nbsp;
+      <span class="badge badge-secondary">ICMC 2026</span>
     </div>
   </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
+</div>
+</li>
+
+<li>
+<div class="row">
+  <div class="col-sm-10">
+    <div class="title">Structural Inverse Reinforcement Learning for Tractable Welfare Measurement <em>(ongoing)</em></div>
+    <div class="author">Long-term research agenda · JSPS DC1 application</div>
+    <div class="periodical">Identifies conditions under which RL and GNN connections to activity-based DDCM preserve the welfare guarantee, and builds an exact algorithm for spatial transport welfare analysis at city scale.</div>
   </div>
-  {% endif %}
-  {% endfor %}
+</div>
+</li>
 
-{% else %}
+</ol>
 
-<!-- Display projects without categories -->
-
-{% assign sorted_projects = site.projects | sort: "importance" %}
-
-  <!-- Generate cards for each project -->
-
-{% if page.horizontal %}
-
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for project in sorted_projects %}
-      {% include projects_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for project in sorted_projects %}
-      {% include projects.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
 </div>
