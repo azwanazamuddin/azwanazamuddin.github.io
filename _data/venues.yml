@@ -1,9 +1,29 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"Thesis":
+  color: "#005028"
+
+"AST":
+  url: https://www.sciencedirect.com/journal/asian-transport-studies
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"hEART":
+  url: https://transp-or.epfl.ch/heart/
+  color: "#8c1515"
 
-"Vision":
-  color: "#009f36"
+"MUM":
+  url: https://www.matsim.org/
+  color: "#1f6f8b"
+
+"ICMC":
+  url: https://www.icmconference.org.uk/
+  color: "#4a4a8a"
+
+"APTE":
+  color: "#2e7d32"
+
+"EASTS":
+  url: https://easts.info/
+  color: "#c8a000"
+
+"JPWK":
+  url: https://ejournal.undip.ac.id/index.php/pwk
+  color: "#6d4c41"

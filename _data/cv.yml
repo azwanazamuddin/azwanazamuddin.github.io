@@ -17,6 +17,7 @@
       description:
         - Graduate School of Innovation and Practice for Smart Society.
         - "Supervisor: Prof. Makoto Chikaraishi, Urban and Transportation Planning Lab."
+        - "Thesis: A Scalable Computational Framework for Activity-Based Dynamic Discrete Choice Models. Defended 27 July 2026."
     - title: Bachelor's Degree, Urban and Regional Planning
       institution: Institut Teknologi Bandung (ITB), Indonesia
       year: 2019–2023
@@ -80,13 +81,16 @@
   contents:
     - title: Research & Modeling
       items:
-        - Activity-based travel demand modeling
+        - Activity-based travel demand modelling
         - Dynamic discrete choice models
-        - Approximate dynamic programming
-        - Transport modelling
+        - Exact dynamic programming at population scale
+        - Nested fixed-point maximum likelihood estimation
+        - Agent-based simulation (MATSim)
+        - Accessibility and welfare measurement
     - title: Data & Programming
       items:
         - Python, R, Stata
+        - GPU computing (CUDA, Metal)
         - Geographic Information Systems (GIS)
         - Machine Learning
         - Data Analysis & Visualization

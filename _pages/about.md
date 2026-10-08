@@ -3,8 +3,9 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  Master Student · <a href="https://www.hiroshima-u.ac.jp/en" target="_blank">Hiroshima University</a> ·
-  <a href="https://home.hiroshima-u.ac.jp/~mkt682/" target="_blank">Urban and Transportation Planning Laboratory</a>
+  <a href="https://home.hiroshima-u.ac.jp/~mkt682/" target="_blank">Urban and Transportation Planning Laboratory</a> ·
+  Graduate School of Innovation and Practice for Smart Society ·
+  <a href="https://www.hiroshima-u.ac.jp/en" target="_blank">Hiroshima University</a>
 
 profile:
   align: right
@@ -14,10 +15,29 @@ profile:
     <p>Higashihiroshima, Hiroshima, Japan</p>
 
 news: false # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm Azwan, a master's student at [Hiroshima University](https://www.hiroshima-u.ac.jp/en) in the Smart Mobility Program, working in the [Urban and Transportation Planning Lab](https://home.hiroshima-u.ac.jp/~mkt682/) under Prof. Makoto Chikaraishi. My research focuses on computational approaches to modeling travel behavior — activity-based models using dynamic discrete choice and approximate dynamic programming.
+I'm Azwan. I work on computational approaches to modelling travel behaviour at
+[Hiroshima University](https://www.hiroshima-u.ac.jp/en), in the
+[Urban and Transportation Planning Lab](https://home.hiroshima-u.ac.jp/~mkt682/) under
+Prof. Makoto Chikaraishi.
 
-Before coming to Japan, I studied Urban and Regional Planning at [ITB](https://www.itb.ac.id) in Bandung, and spent some time doing research at the Urban Planning and Design Research Group there.
+My research is about **constraint heterogeneity in dynamic choice models**. A day is assembled
+out of what is possible, not only out of what is wanted, and what is possible differs from
+person to person — where you live, whether you have a car, who you collect, when you are due
+somewhere. A model that cannot carry that difference reads constraint as preference, and the
+error lands in accessibility and welfare. Models that can carry it exactly have had to pay one
+value function per person. My work is about what that difference actually costs, and which
+differences between people genuinely need their own computation.
+
+My [Master's thesis](https://azwanazamuddin.github.io/reports/archive/thesis/nazamuddin-2026-masters-thesis.pdf)
+(2026) built the computational ground for this: exact estimation of activity-based dynamic
+discrete choice models at city scale, by keeping only the states a person can physically reach
+and sharing one solve across everyone who faces the same constraints. Ongoing notes and reports
+are at [azwanazamuddin.github.io/reports](https://azwanazamuddin.github.io/reports/).
+
+Before coming to Japan I studied Urban and Regional Planning at [ITB](https://www.itb.ac.id) in
+Bandung, and did research with the Urban Planning and Design Research Group there on where
+ride-hailing drivers wait between orders.
