@@ -32,7 +32,7 @@ error lands in accessibility and welfare. Models that can carry it exactly have 
 value function per person. My work is about what that difference actually costs, and which
 differences between people genuinely need their own computation.
 
-My [Master's thesis](https://azwanazamuddin.github.io/reports/archive/thesis/nazamuddin-2026-masters-thesis.pdf)
+My [Master's thesis](https://azwanazamuddin.github.io/reports/slides/thesis/)
 (2026) built the computational ground for this: exact estimation of activity-based dynamic
 discrete choice models at city scale, by keeping only the states a person can physically reach
 and sharing one solve across everyone who faces the same constraints. Ongoing notes and reports

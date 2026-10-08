@@ -55,7 +55,6 @@ nav_order: 3
       across everyone facing the same constraints. Estimated on the Higashi-Hiroshima travel diary.
     </div>
     <div class="links">
-      <a href="https://azwanazamuddin.github.io/reports/archive/thesis/nazamuddin-2026-masters-thesis.pdf" class="btn btn-sm z-depth-0" role="button">PDF</a>
       <a href="https://azwanazamuddin.github.io/reports/slides/thesis/" class="btn btn-sm z-depth-0" role="button">Defense deck</a>
       <span class="badge badge-secondary">APTE 2026</span>&nbsp;
       <span class="badge badge-secondary">ICMC 2026</span>
