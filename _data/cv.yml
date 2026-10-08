@@ -11,16 +11,23 @@
 - title: Education
   type: time_table
   contents:
+    - title: Doctoral Degree, Smart Mobility
+      institution: Hiroshima University, Japan
+      year: Sep 2026 – Sep 2029
+      description:
+        - Doctoral Program, Graduate School of Innovation and Practice for Smart Society, Smart Mobility research field.
+        - "Supervisor: Prof. Makoto Chikaraishi, Urban and Transportation Planning Lab."
+        - "Research: constraint heterogeneity in dynamic choice models."
     - title: Master's Degree, Smart Mobility
       institution: Hiroshima University, Japan
-      year: 2024–2026
+      year: Oct 2024 – Sep 2026
       description:
-        - Graduate School of Innovation and Practice for Smart Society.
+        - Master Program, Graduate School of Innovation and Practice for Smart Society, Smart Mobility research field.
         - "Supervisor: Prof. Makoto Chikaraishi, Urban and Transportation Planning Lab."
         - "Thesis: A Scalable Computational Framework for Activity-Based Dynamic Discrete Choice Models. Defended 27 July 2026."
-    - title: Bachelor's Degree, Urban and Regional Planning
+    - title: Bachelor's Degree, City/Urban, Community and Regional Planning
       institution: Institut Teknologi Bandung (ITB), Indonesia
-      year: 2019–2023
+      year: Jul 2019 – Oct 2023
       description:
         - "GPA: 3.67 / 4.00"
         - "Undergraduate Thesis: Exploration of Travel Behaviour and Idle-Time Location Selection of Online Ojek Drivers (Case Study: Bandung, Indonesia)"

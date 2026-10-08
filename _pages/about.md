@@ -3,14 +3,14 @@ layout: about
 title: about
 permalink: /
 subtitle: >
+  Doctoral Student, Smart Mobility ·
   <a href="https://home.hiroshima-u.ac.jp/~mkt682/" target="_blank">Urban and Transportation Planning Laboratory</a> ·
-  Graduate School of Innovation and Practice for Smart Society ·
   <a href="https://www.hiroshima-u.ac.jp/en" target="_blank">Hiroshima University</a>
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Higashihiroshima, Hiroshima, Japan</p>
 
@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm Azwan. I work on computational approaches to modelling travel behaviour at
+I'm Azwan, a doctoral student in the Smart Mobility programme at
 [Hiroshima University](https://www.hiroshima-u.ac.jp/en), in the
 [Urban and Transportation Planning Lab](https://home.hiroshima-u.ac.jp/~mkt682/) under
 Prof. Makoto Chikaraishi.
