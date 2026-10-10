@@ -45,7 +45,7 @@ nav_order: 3
 <div class="row">
   <div class="col-sm-10">
     <div class="title">A Scalable Computational Framework for Activity-Based Dynamic Discrete Choice Models</div>
-    <div class="author">Master's thesis · Hiroshima University · defended July 2026</div>
+    <div class="author">Master's thesis · Hiroshima University · defended August 2026</div>
     <div class="periodical">
       Exact estimation of activity-based DDCMs at city scale. Because the value of a day is a
       log-sum over every feasible day, nothing may be dropped for being unlikely — only for being
