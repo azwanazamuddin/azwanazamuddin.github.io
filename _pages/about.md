@@ -35,8 +35,7 @@ differences between people genuinely need their own computation.
 My [Master's thesis](https://azwanazamuddin.github.io/reports/slides/thesis/)
 (2026) built the computational ground for this: exact estimation of activity-based dynamic
 discrete choice models at city scale, by keeping only the states a person can physically reach
-and sharing one solve across everyone who faces the same constraints. Ongoing notes and reports
-are at [azwanazamuddin.github.io/reports](https://azwanazamuddin.github.io/reports/).
+and sharing one solve across everyone who faces the same constraints.
 
 Before coming to Japan I studied Urban and Regional Planning at [ITB](https://www.itb.ac.id) in
 Bandung, and did research with the Urban Planning and Design Research Group there on where

@@ -27,7 +27,6 @@ nav_order: 3
       distinct computations a population genuinely requires.
     </div>
     <div class="links">
-      <a href="https://azwanazamuddin.github.io/reports/" class="btn btn-sm z-depth-0" role="button">Notes &amp; reports</a>
       <span class="badge badge-secondary">hEART 2026</span>&nbsp;
       <span class="badge badge-secondary">MUM 2026</span>
     </div>
